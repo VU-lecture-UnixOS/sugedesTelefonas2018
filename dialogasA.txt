@@ -11,6 +11,7 @@ DČ atsako:
 OD klausia:
 JK atsako:
 IM klausia:
+"kaip gyveni?...kaip tu jauties?..."
 KM atsako:
 DO klausia:
 Ar veikia? Ar girdi? Ar egzistuoja gyvenimas sioj realybej?
@@ -29,6 +30,7 @@ kokis butu megiamiausias filmas?
 OD atsako:
 JK klausia:
 IM atsako:
+oui:)
 KM klausia:
 DO atsako:
 Ir taip, ir ne. priklauso nuo situacijos.

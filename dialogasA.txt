@@ -3,7 +3,7 @@ klausia ir vieną kartą atsako. Turėkite galvoje, kad pokalbis viešas!
 KB klausia:
 LB atsako:
 ŽČ klausia:
-DČ atsako:
+DČ atsako: 42
 OD klausia:
 JK atsako:
 IM klausia:
@@ -16,7 +16,7 @@ TŽ klausia:
 KB atsako:
 LB klausia:
 ŽČ atsako:
-DČ klausia:
+DČ klausia: favourite movie
 OD atsako:
 JK klausia:
 IM atsako:

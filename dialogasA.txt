@@ -1,27 +1,37 @@
 Įsivaizduokime, kad vyksta pokalbis. Kiekvienas veikėjas vieną kartą
 klausia ir vieną kartą atsako. Turėkite galvoje, kad pokalbis viešas!
 KB klausia:
+Kiek uz dideli kebaba?
 LB atsako:
-ŽČ klausia:
-DČ atsako: 42
+Nesutinku.
+ŽČ klausia: 
+Kodel vandenyno vanduo yra surus? 
+DČ atsako: 
+42
 OD klausia:
 JK atsako:
 IM klausia:
 KM atsako:
 DO klausia:
+Ar veikia? Ar girdi? Ar egzistuoja gyvenimas sioj realybej?
 TP atsako:
 BS klausia:
 MV atsako:
 TŽ klausia:
 KB atsako:
+Ekologiski bananai
 LB klausia:
+Kas tu esi?
 ŽČ atsako:
-DČ klausia: favourite movie
+Puikus klausimas, taciau bijau, jog neturiu pakankamai kompetencijos i ji atsakyti.
+DČ klausia:
+kokis butu megiamiausias filmas?
 OD atsako:
 JK klausia:
 IM atsako:
 KM klausia:
 DO atsako:
+Ir taip, ir ne. priklauso nuo situacijos.
 TP klausia:
 BS atsako:
 MV klausia:

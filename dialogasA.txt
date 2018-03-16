@@ -32,10 +32,16 @@ JK klausia:
 IM atsako:
 oui:)
 KM klausia:
+<<<<<<< HEAD
+Kas eis i unix teorijos paskaita?
+=======
+>>>>>>> 2c842490bf074d46f2ffdd6a49c21db61985a0a5
 DO atsako:
 Ir taip, ir ne. priklauso nuo situacijos.
 TP klausia:
 BS atsako:
 MV klausia:
 TŽ atsako:
-Dialogo pabaiga
+Dialogo pabaiga 
+
+

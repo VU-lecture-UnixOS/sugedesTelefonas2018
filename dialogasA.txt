@@ -1,7 +1,9 @@
 Įsivaizduokime, kad vyksta pokalbis. Kiekvienas veikėjas vieną kartą
 klausia ir vieną kartą atsako. Turėkite galvoje, kad pokalbis viešas!
-KB klausia:Kiek uz dideli kebaba?
-LB atsako:3.50
+KB klausia:
+Kiek uz dideli kebaba?
+LB atsako:
+Nesutinku.
 ŽČ klausia:
 DČ atsako:
 OD klausia:
@@ -9,12 +11,15 @@ JK atsako:
 IM klausia:
 KM atsako:
 DO klausia:
+Ar veikia? Ar girdi? Ar egzistuoja gyvenimas sioj realybej?
 TP atsako:
 BS klausia:
 MV atsako:
 TŽ klausia:
 KB atsako:
+Ekologiski bananai
 LB klausia:
+Kas tu esi?
 ŽČ atsako:
 DČ klausia:
 OD atsako:
@@ -22,6 +27,7 @@ JK klausia:
 IM atsako:
 KM klausia:
 DO atsako:
+Ir taip, ir ne. priklauso nuo situacijos.
 TP klausia:
 BS atsako:
 MV klausia:

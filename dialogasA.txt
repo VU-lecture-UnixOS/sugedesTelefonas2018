@@ -4,7 +4,8 @@ KB klausia:
 Kiek uz dideli kebaba?
 LB atsako:
 Nesutinku.
-ŽČ klausia:
+ŽČ klausia: 
+Kodel vandenyno vanduo yra surus? 
 DČ atsako:
 OD klausia:
 JK atsako:
@@ -21,6 +22,7 @@ Ekologiski bananai
 LB klausia:
 Kas tu esi?
 ŽČ atsako:
+Puikus klausimas, taciau bijau, jog neturiu pakankamai kompetencijos i ji atsakyti.
 DČ klausia:
 OD atsako:
 JK klausia:

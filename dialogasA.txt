@@ -16,6 +16,7 @@ BS klausia:
 MV atsako:
 TŽ klausia:
 KB atsako:
+Dominyko paklausk
 LB klausia:
 Kas tu esi?
 ŽČ atsako:

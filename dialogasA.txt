@@ -10,6 +10,7 @@ DČ atsako:
 OD klausia:
 JK atsako:
 IM klausia:
+"kaip gyveni?...kaip tu jauties?..."
 KM atsako:
 DO klausia:
 Ar veikia? Ar girdi? Ar egzistuoja gyvenimas sioj realybej?
@@ -27,6 +28,7 @@ DČ klausia:
 OD atsako:
 JK klausia:
 IM atsako:
+oui:)
 KM klausia:
 <<<<<<< HEAD
 Kas eis i unix teorijos paskaita?

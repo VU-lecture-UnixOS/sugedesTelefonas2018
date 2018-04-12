@@ -2,6 +2,7 @@
 klausia ir vieną kartą atsako. Turėkite galvoje, kad pokalbis viešas!
 KB klausia:
 LB atsako:
+Nesutinku.
 ŽČ klausia:
 DČ atsako:
 OD klausia:
@@ -15,6 +16,7 @@ MV atsako:
 TŽ klausia:
 KB atsako:
 LB klausia:
+Kas tu esi?
 ŽČ atsako:
 DČ klausia:
 OD atsako:

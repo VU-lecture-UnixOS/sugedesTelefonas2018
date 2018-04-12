@@ -10,6 +10,7 @@ JK atsako:
 IM klausia:
 KM atsako:
 DO klausia:
+Ar veikia? Ar girdi? Ar egzistuoja gyvenimas sioj realybej?
 TP atsako:
 BS klausia:
 MV atsako:
@@ -25,11 +26,11 @@ IM atsako:
 KM klausia:
 Kas eis i unix teorijos paskaita?
 DO atsako:
+Ir taip, ir ne. priklauso nuo situacijos.
 TP klausia:
 BS atsako:
 MV klausia:
 TŽ atsako:
 Dialogo pabaiga 
-:wq
 
 

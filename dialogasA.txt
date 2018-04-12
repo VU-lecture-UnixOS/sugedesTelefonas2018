@@ -1,9 +1,11 @@
 Įsivaizduokime, kad vyksta pokalbis. Kiekvienas veikėjas vieną kartą
 klausia ir vieną kartą atsako. Turėkite galvoje, kad pokalbis viešas!
 KB klausia:
+Kiek uz dideli kebaba?
 LB atsako:
 Nesutinku.
-ŽČ klausia:
+ŽČ klausia: 
+Kodel vandenyno vanduo yra surus? 
 DČ atsako:
 OD klausia:
 JK atsako:
@@ -16,15 +18,20 @@ BS klausia:
 MV atsako:
 TŽ klausia:
 KB atsako:
+Ekologiski bananai
 LB klausia:
 Kas tu esi?
 ŽČ atsako:
+Puikus klausimas, taciau bijau, jog neturiu pakankamai kompetencijos i ji atsakyti.
 DČ klausia:
 OD atsako:
 JK klausia:
 IM atsako:
 KM klausia:
+<<<<<<< HEAD
 Kas eis i unix teorijos paskaita?
+=======
+>>>>>>> 2c842490bf074d46f2ffdd6a49c21db61985a0a5
 DO atsako:
 Ir taip, ir ne. priklauso nuo situacijos.
 TP klausia:

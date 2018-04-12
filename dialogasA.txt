@@ -21,9 +21,13 @@ OD atsako:
 JK klausia:
 IM atsako:
 KM klausia:
+Kas eis i unix teorijos paskaita?
 DO atsako:
 TP klausia:
 BS atsako:
 MV klausia:
 TŽ atsako:
-Dialogo pabaiga
+Dialogo pabaiga 
+:wq
+
+

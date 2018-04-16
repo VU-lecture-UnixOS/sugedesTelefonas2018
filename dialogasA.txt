@@ -1,0 +1,29 @@
+Įsivaizduokime, kad vyksta pokalbis. Kiekvienas veikėjas vieną kartą
+klausia ir vieną kartą atsako. Turėkite galvoje, kad pokalbis viešas!
+KB klausia:
+LB atsako:
+ŽČ klausia:
+DČ atsako:
+OD klausia:
+JK atsako:
+IM klausia:
+KM atsako:
+DO klausia:
+TP atsako:
+BS klausia:
+MV atsako:
+TŽ klausia:
+KB atsako:
+LB klausia:
+ŽČ atsako:
+DČ klausia:
+OD atsako:
+JK klausia:
+IM atsako:
+KM klausia:
+DO atsako:
+TP klausia:
+BS atsako:
+MV klausia:
+TŽ atsako:
+Dialogo pabaiga

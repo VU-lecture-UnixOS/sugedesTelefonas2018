@@ -10,7 +10,7 @@ OD klausia:
 JK atsako:
 IM klausia:
 KM atsako:
-DO klausia:
+DO klausia:Ar veikia? Ar girdi? Ar egzistuoja gyvenimas sioj realybej?
 TP atsako:
 BS klausia:
 MV atsako:
@@ -25,7 +25,7 @@ OD atsako:
 JK klausia:
 IM atsako:
 KM klausia:
-DO atsako:
+DO atsako:Ir taip, ir ne. priklauso nuo situacijos.
 TP klausia:
 BS atsako:
 MV klausia:

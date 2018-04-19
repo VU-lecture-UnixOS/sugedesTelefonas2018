@@ -2,7 +2,8 @@
 klausia ir vieną kartą atsako. Turėkite galvoje, kad pokalbis viešas!
 KB klausia:
 LB atsako:
-ŽČ klausia:
+ŽČ klausia: 
+Kodel vandenyno vanduo yra surus? 
 DČ atsako:
 OD klausia:
 JK atsako:
@@ -16,6 +17,7 @@ TŽ klausia:
 KB atsako:
 LB klausia:
 ŽČ atsako:
+Puikus klausimas, taciau bijau, jog neturiu pakankamai kompetencijos i ji atsakyti.
 DČ klausia:
 OD atsako:
 JK klausia:

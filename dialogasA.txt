@@ -7,6 +7,7 @@ DČ atsako:
 OD klausia:
 JK atsako:
 IM klausia:
+"kaip gyveni?...kaip tu jauties?..."
 KM atsako:
 DO klausia:
 TP atsako:
@@ -20,6 +21,7 @@ DČ klausia:
 OD atsako:
 JK klausia:
 IM atsako:
+oui:)
 KM klausia:
 DO atsako:
 TP klausia:
